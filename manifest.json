@@ -1,0 +1,114 @@
+[
+  {
+    "repository": "OttoMilvang/TieBreakServer",
+    "remote": "upstream",
+    "ref": "main",
+    "sha": "721b73b0d1c38be1dfe416e890bfe8bb66921566",
+    "archive_ref": "upstream/main"
+  },
+  {
+    "repository": "OttoMilvang/TieBreakServer",
+    "remote": "upstream",
+    "ref": "test-branch",
+    "sha": "94bde70ea658be3f620ac4694b4944394d41481a",
+    "archive_ref": "upstream/test-branch"
+  },
+  {
+    "repository": "OttoMilvang/TieBreakServer",
+    "remote": "upstream",
+    "ref": "submit/00-ci",
+    "sha": "9d95b36fd7de29627afe73b8f1769bbb5b5ba7d9",
+    "archive_ref": "upstream/submit-00-ci"
+  },
+  {
+    "repository": "OttoMilvang/TieBreakServer",
+    "remote": "upstream",
+    "ref": "submit/01-trf-reading",
+    "sha": "bdfe3b69e7682cef33e2585e3d6194241261cec0",
+    "archive_ref": "upstream/submit-01-trf-reading"
+  },
+  {
+    "repository": "OttoMilvang/TieBreakServer",
+    "remote": "upstream",
+    "ref": "submit/02-tiebreak",
+    "sha": "4c0d8dbfe4de2cc48b4c40a4949757300bebf28d",
+    "archive_ref": "upstream/submit-02-tiebreak"
+  },
+  {
+    "repository": "OttoMilvang/TieBreakServer",
+    "remote": "upstream",
+    "ref": "submit/03-status-codes",
+    "sha": "b8b0102e1b666532da9d77df645f562d9a8bb5a5",
+    "archive_ref": "upstream/submit-03-status-codes"
+  },
+  {
+    "repository": "OttoMilvang/TieBreakServer",
+    "remote": "upstream",
+    "ref": "submit/04-colour-pref",
+    "sha": "0dcc937abd452740cfc64d7eae4ede2e0af35b28",
+    "archive_ref": "upstream/submit-04-colour-pref"
+  },
+  {
+    "repository": "OttoMilvang/TieBreakServer",
+    "remote": "upstream",
+    "ref": "submit/05-c046-team",
+    "sha": "f34a784c72c8ca625b973ebc8901594d6810a94d",
+    "archive_ref": "upstream/submit-05-c046-team"
+  },
+  {
+    "repository": "ChessRoster/TieBreakServer",
+    "remote": "origin",
+    "ref": "submit/integration-main",
+    "sha": "0f44d3a984ea531a155a14dae47854fbbff7d24d",
+    "archive_ref": "chessroster/integration-main"
+  },
+  {
+    "repository": "ChessRoster/TieBreakServer",
+    "remote": "origin",
+    "ref": "submit/integration-test",
+    "sha": "0f44d3a984ea531a155a14dae47854fbbff7d24d",
+    "archive_ref": "chessroster/integration-test"
+  },
+  {
+    "repository": "ChessRoster/TieBreakServer",
+    "remote": "origin",
+    "ref": "submit/00-ci",
+    "sha": "9d95b36fd7de29627afe73b8f1769bbb5b5ba7d9",
+    "archive_ref": "chessroster/submit-00-ci"
+  },
+  {
+    "repository": "ChessRoster/TieBreakServer",
+    "remote": "origin",
+    "ref": "submit/01-trf-reading",
+    "sha": "bdfe3b69e7682cef33e2585e3d6194241261cec0",
+    "archive_ref": "chessroster/submit-01-trf-reading"
+  },
+  {
+    "repository": "ChessRoster/TieBreakServer",
+    "remote": "origin",
+    "ref": "submit/02-tiebreak",
+    "sha": "4c0d8dbfe4de2cc48b4c40a4949757300bebf28d",
+    "archive_ref": "chessroster/submit-02-tiebreak"
+  },
+  {
+    "repository": "ChessRoster/TieBreakServer",
+    "remote": "origin",
+    "ref": "submit/03-status-codes",
+    "sha": "b8b0102e1b666532da9d77df645f562d9a8bb5a5",
+    "archive_ref": "chessroster/submit-03-status-codes"
+  },
+  {
+    "repository": "ChessRoster/TieBreakServer",
+    "remote": "origin",
+    "ref": "submit/04-colour-pref",
+    "sha": "0dcc937abd452740cfc64d7eae4ede2e0af35b28",
+    "archive_ref": "chessroster/submit-04-colour-pref"
+  },
+  {
+    "repository": "ChessRoster/TieBreakServer",
+    "remote": "origin",
+    "ref": "submit/05-c046-team",
+    "sha": "f34a784c72c8ca625b973ebc8901594d6810a94d",
+    "archive_ref": "chessroster/submit-05-c046-team"
+  }
+]
